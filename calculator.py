@@ -1,19 +1,24 @@
 #!/usr/bin/python3
 
 def add():
-	pass;
+    pass
+
 
 def subtract():
-	pass;
+    pass
 
-def multiply():
-	pass;
+
+def multiply(x, y):
+    return x * y
+
 
 def divide():
-	pass;
+    return x / y
+
 
 def exponent():
-	pass;
+    pass
+
 
 def sqrt():
-	pass;
+    pass
