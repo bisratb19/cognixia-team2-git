@@ -8,14 +8,16 @@ def subtract(x, y):
 	sub_sum = print(x - y)
 	return sub_sum
 
-def multiply():
-	pass;
+def multiply(x, y):
+    return x * y
 
-def divide():
-	pass;
+def divide(x, y):
+    return x / y
+
 
 def exponent():
-	pass;
+    pass
+
 
 def sqrt():
-	pass;
+    pass
